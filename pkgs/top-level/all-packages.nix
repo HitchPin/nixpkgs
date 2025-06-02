@@ -9295,6 +9295,7 @@ with pkgs;
     openssl_1_1
     openssl_3
     openssl_3_4
+    openssl_3_5
     ;
 
   openwebrx = callPackage ../applications/radio/openwebrx {
