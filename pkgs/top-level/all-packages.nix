@@ -9285,7 +9285,7 @@ with pkgs;
 
   libressl = libressl_4_0;
 
-  openssl = openssl_3_5;
+  openssl = openssl_3_4;
 
   openssl_legacy = openssl.override {
     conf = ../development/libraries/openssl/3.0/legacy.cnf;
